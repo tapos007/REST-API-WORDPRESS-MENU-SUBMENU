@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: ClaudioLaBarbera
+Contributors: Biswa Nath Ghosh Tapos
 Tags: api, json, json-rest-api, menu-routes, menus, REST, wp-api, wp-rest-api, v2
 Requires at least: 4.4
 Tested up to: 4.8.1
