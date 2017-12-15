@@ -20,7 +20,7 @@ The new routes available will be:
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/wp-rest-api-v2-menus` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/tutexp_rest_api_v2_menu` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 
 
@@ -32,7 +32,7 @@ There's no such thing.
 
 = Can I contribute to the project? =
 
-Of course! This is the GitHub Repository https://github.com/thebatclaudio/wp-rest-api-v2-menus
+Of course! This is the GitHub Repository https://github.com/tapos007/REST-API-WORDPRESS-MENU-SUBMENU
 
 == Screenshots ==
 
