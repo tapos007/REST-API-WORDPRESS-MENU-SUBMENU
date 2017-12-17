@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Wordpress Rest API V2 Menu and Submenu Endpoint
+ * Plugin Name: Tutexp Rest Api Menu
  * Plugin URI: http://tutexp.com
  * Description: Adding menus endpoints on WP REST API v2
  * Version: 1.0.0

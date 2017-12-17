@@ -11,7 +11,7 @@ Adding menus endpoints on WP REST API v2
 
 == Description ==
 
-This plugin extends the [WordPress REST API (Version 2)](https://wordpress.org/plugins/rest-api/) with new routes for WordPress registered menus.
+This plugin extends the WordPress REST API  with new routes for WordPress registered menus.
 
 The new routes available will be:
 
@@ -20,7 +20,7 @@ The new routes available will be:
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/tutexp_rest_api_v2_menu` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/tutexp-rest-api-menu` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 
 
