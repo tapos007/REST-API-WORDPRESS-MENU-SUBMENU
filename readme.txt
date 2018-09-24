@@ -15,8 +15,8 @@ This plugin extends the WordPress REST API  with new routes for WordPress regist
 
 The new routes available will be:
 
-* `[website_name]/wp-json/menus/v2/menus` list of every registered menu.
-* `[website_name]/wp-json/menus/v2/menus/<slug>` data for a specific menu.
+* `[website_name]/wp-json/tutexpmenu/v2/menus` list of every registered menu.
+* `[website_name]/wp-json/tutexpmenu/v2/menus/<slug>` data for a specific menu.
 
 == Installation ==
 
